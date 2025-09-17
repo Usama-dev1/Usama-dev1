@@ -1,9 +1,5 @@
 
 # Hi, I'm Usama 👋
-
-## Full-Stack MERN Developer
-
-Developer building dynamic and responsive web applications using the MERN stack. 
 ### 🔧 Skills
 - **MongoDB:** NoSQL database management
 - **Express.js:** Server-side development

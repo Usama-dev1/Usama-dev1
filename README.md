@@ -1,14 +1,16 @@
 
 # Hi, I'm Usama 👋
 ### 🔧 Skills
+- **Nextjs:** Fullstack framework
 - **MongoDB:** NoSQL database management
 - **Express.js:** Server-side development
 - **React.js:** Frontend development with a focus on component-based architecture
 - **Node.js:** Backend development and API integration
 - **Tailwind CSS:** Modern UI styling
-- **Bootstrap:** Responsive Web design
-- **PHP:** Server side development
-- **MYSQL:** Database managment
+- **Shadcn UI:** Responsive Web design
+- **Typescript:** For type safety
+- **ORM:** Prisma,Mongoose,sequelize
+- **Database:** PostgresSQL(Neon,Supabase) NoSQL(Mongodb),SQLlite,MYSQL
 - **Wordpress:** For eCommerce,blogs and Websites
 - **Shopify:** Dropshipping,Print on demand and eCommerce Websites
 

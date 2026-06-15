@@ -1,5 +1,5 @@
 
-# Hi, I'm Usama 👋
+# Hi, 👋 I'm Usama Fullstack developer MERN stack,NEXTjs and React Native Expo 
 ### 🔧 Skills
 - **Nextjs:** Fullstack framework
 - **Express.js:** Server-side development

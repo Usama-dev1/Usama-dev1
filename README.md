@@ -2,7 +2,6 @@
 # Hi, I'm Usama 👋
 ### 🔧 Skills
 - **Nextjs:** Fullstack framework
-- **MongoDB:** NoSQL database management
 - **Express.js:** Server-side development
 - **React.js:** Frontend development with a focus on component-based architecture
 - **Node.js:** Backend development and API integration

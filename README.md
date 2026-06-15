@@ -6,6 +6,7 @@
 - **Express.js:** Server-side development
 - **React.js:** Frontend development with a focus on component-based architecture
 - **Node.js:** Backend development and API integration
+- **React Native:** For Andriod and IOS application development
 - **Tailwind CSS:** Modern UI styling
 - **Shadcn UI:** Responsive Web design
 - **Typescript:** For type safety

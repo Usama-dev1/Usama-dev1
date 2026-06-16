@@ -1,6 +1,5 @@
 
 # Hi, 👋 I'm Usama Fullstack developer 
-
 ### 🔧 Skills
 - **Nextjs:**
 - **Express.js**
